@@ -1,3 +1,5 @@
+This python code finds the Longest Common Substring problem via HTTP POST.
+A user is able to request the LCS of a Set of Strings by sending a POST request to the server.
 The python file is executable.
 A port needs to be created on the local machine that the code runs on, something like this:
 ./ATB.py 2020 if using a linux terminal (tested only on linux terminal)
