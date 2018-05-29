@@ -9,3 +9,6 @@ User needs to enter valid input value as a JSON object the format must be like t
                     {“value" : " “chromecastic”},
                     {“value" : " "broadcaster”}]
 }
+
+Pre requisites:
+install web.py
