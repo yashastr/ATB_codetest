@@ -1,0 +1,9 @@
+The python file is executable.
+A port needs to be created on the local machine that the code runs on, something like this:
+./ATB.py 2020 if using a linux terminal (tested only on linux terminal)
+It can be run using services like Postman.
+User needs to enter valid input value as a JSON object the format must be like this:
+{"setOfStrings" : [ {“value" : " “chcast”},
+                    {“value" : " “chromecastic”},
+                    {“value" : " "broadcaster”}]
+}
